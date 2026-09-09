@@ -88,6 +88,11 @@ DFDFNet_Release/
 │   └── pipeline.py          # End-to-end pipeline orchestration
 ```
 
+## **⬇️ Download Links**  
+Download the assets from the repository's **Releases** page: `https://github.com/transover/DFDFNet_Release/releases`.
+- **Example Data**: <a href="https://github.com/transover/DFDFNet_Release/releases/Data.zip">Data.zip</a>
+- **Model Results**: <a href="https://github.com/transover/DFDFNet_Release/releases/models.zip">models.zip</a>
+
 ## ⚙️ Environment Requirements
 
 - Python ≥ 3.10
