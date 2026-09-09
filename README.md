@@ -1,6 +1,6 @@
 # DFDFNet: Dual-Stream Dynamic Fusion Network for sEMG Gesture Recognition
 
-## Brief
+## 📝 Brief
 This repository presents a clean version of DFDFNet, distilled by the authors from our related work, focusing on the core content of the DFDFNet study. It is implemented on TensorFlow 2 / Keras 3 and provides a full training and evaluation pipeline (data preprocessing, model configurations, hyperparameters, and evaluation scripts) that is easy to run and reproduce. To facilitate one-click reproduction, this release includes a partial example dataset (DB2), a pretrained model together with its results, and Jupyter notebook code along with the corresponding outputs.
 
 ---
@@ -8,7 +8,7 @@ This repository presents a clean version of DFDFNet, distilled by the authors fr
 ## 📑 Table of Contents
 
 - [DFDFNet: Dual-Stream Dynamic Fusion Network for sEMG Gesture Recognition](#dfdfnet-dual-stream-dynamic-fusion-network-for-semg-gesture-recognition)
-  - [Brief](#brief)
+  - [📝 Brief](#brief)
   - [📑 Table of Contents](#-table-of-contents)
   - [🧠 Model Description](#-model-description)
     - [🏗️ Network Architecture](#️-network-architecture)
@@ -90,8 +90,8 @@ DFDFNet_Release/
 
 ## **⬇️ Download Links**  
 Download the assets from the repository's **Releases** page: `https://github.com/transover/DFDFNet_Release/releases`.
-- **Example Data**: <a href="https://github.com/transover/DFDFNet_Release/releases/Data.zip">Data.zip</a>
-- **Model Results**: <a href="https://github.com/transover/DFDFNet_Release/releases/models.zip">models.zip</a>
+- **Example Data**: <a href="https://github.com/transover/DFDFNet-Release/releases/download/Data/Data.zip">Data.zip</a>
+- **Model Results**: <a href="https://github.com/transover/DFDFNet-Release/releases/download/Results/models.zip">models.zip</a>
 
 ## ⚙️ Environment Requirements
 
